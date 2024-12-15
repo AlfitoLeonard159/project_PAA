@@ -1,5 +1,3 @@
-Berdasarkan grafik yang ditampilkan, berikut adalah estimasi worst case dan average case untuk masingmasing nilai n:
-
 Jumlah Elemen (n)  Worst Case (s)  Average Case (s) 
 
  100                     1.3 × 10⁻⁶         1.2 × 10⁻⁶          
@@ -15,5 +13,3 @@ Observasi:
 1. Worst case dan average case memiliki pola linier meningkat terhadap jumlah elemen n.
 2. Perbedaan antara worst case dan average case sangat kecil, yang berarti performa algoritma hampir konsisten untuk input unik/nonunik.
 3. Kompleksitas waktu kemungkinan besar mendekati O(n) karena adanya peningkatan proporsional terhadap n.
-
-Jika ada data lebih lanjut atau analisis tambahan yang dibutuhkan, beri tahu saya! 😊
